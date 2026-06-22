@@ -1,0 +1,6 @@
+path: C:/Users/louis/OneDrive/Desktop/fire_extinguisher_yolo/dataset
+train: images/train
+val: images/val
+
+names:
+  0: fire_extinguisher
